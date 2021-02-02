@@ -13,6 +13,8 @@ station_data/
 gov_data_api_key.txt
 /00.data/
 model/
+keys/
+voice/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
